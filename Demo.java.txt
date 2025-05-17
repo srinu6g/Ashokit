@@ -5,5 +5,8 @@ System.out.println("aakjksjcss")
 ;
 int a=10;
 System.out.println(a);
+
 boolean isstatus=true;
+String name="hitesh";
+
 }
